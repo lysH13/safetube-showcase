@@ -1,7 +1,7 @@
 # safetube-showcase
-# SafeTube 🎬👨‍👩‍👧
-
 Note : Ceci est un dépôt vitrine. Le code source complet est hébergé sur un dépôt privé.
+
+# SafeTube 🎬👨‍👩‍👧
 Une application mobile de contrôle parental innovante pour YouTube, construite avec **React Native** et **Expo**. SafeTube 2.0 permet aux parents de surveiller et de gérer le temps d'écran de leurs enfants tout en offrant un environnement de visionnage sécurisé.
 
 ## 🎯 Vue d'ensemble du projet
