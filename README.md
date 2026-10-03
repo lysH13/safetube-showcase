@@ -1,8 +1,7 @@
 # safetube-showcase
 # SafeTube 🎬👨‍👩‍👧
 
-Note : Ceci est un dépôt vitrine. Le code source complet est hébergé sur un dépôt privé pour des raisons de confidentialité
-
+Note : Ceci est un dépôt vitrine. Le code source complet est hébergé sur un dépôt privé.
 Une application mobile de contrôle parental innovante pour YouTube, construite avec **React Native** et **Expo**. SafeTube 2.0 permet aux parents de surveiller et de gérer le temps d'écran de leurs enfants tout en offrant un environnement de visionnage sécurisé.
 
 ## 🎯 Vue d'ensemble du projet
@@ -276,14 +275,6 @@ npm run lint
 
 ## 🔧 Configuration
 
-### Variables d'environnement API
-Modifier [config.ts](app/services/config.ts) :
-
-```typescript
-export const API_CONFIG = {
-  baseURL: 'https://mern-safetube-server.onrender.com/api',
-};
-```
 
 ### Activation des fonctionnalités expérimentales
 Configurées dans `app.json` :
